@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <CTMediator/CTMediator.h>
+#import "CTMediator/CTMediator.h"
 
 @interface CTMediator (B)
 - (UIViewController *)B_viewControllerWithContentText:(NSString *)contentText;
